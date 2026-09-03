@@ -3,7 +3,11 @@
 Thanks for being part of my little project, I hope its of some use to you, it's already proving useful to me as its the one place I can keep everything together. Whether i haev films store on a NAS, blu-ray disc or bought from APPLE TV, i can add everything to a single library, so i know what i have.
 
 ## More information
-I will add the testflight link here as soon as its ready. There is a help section in the app.
+I will post the public testflight link here, if you think anyone else would benefit from using it, please share the link but if you can let me know by popping me an email.
+
+### Contact me
+Please email me at: **gundrywoodey@gmail.com** for any questions/issues or use the feedback function of testflight.  
+
 # Setup Guide
 
 Everything you need to get your library set up: connecting a media server, adding films by hand, laying out your seating, stocking the snack list, and sharing the whole thing with someone else.
