@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Woodey's Picture House**
-Last updated: 11 August 2026
+**Woodey's Place House**
+Last updated: 03 September 2026
 
 ## The short version
 
