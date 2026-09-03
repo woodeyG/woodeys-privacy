@@ -1,6 +1,6 @@
 # Support
 
-**Woodey's Picture House**
+**Woodey's Place**
 
 ## Getting started
 
