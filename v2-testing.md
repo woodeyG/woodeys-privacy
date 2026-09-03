@@ -13,5 +13,5 @@ In order to connect to your server of choice, you will need to allow the connect
 Jellyfin and Emby should also allow control directly from the app to your player, so you can start and stop films directly from the App. This, unfortunately is a bit trickier on Plex but it should be working if you use the Apple TV version.
 
 ## More information
-I will add more details here later, as well as the testflight link.
+I will add more details here later, as well as the testflight link. There is a help section in the app that hopefully explains the functionality and how to sahre your library.
 
